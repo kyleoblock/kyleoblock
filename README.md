@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyleoblock&label=Profile%20views&color=0e75b6&style=flat" alt="kyleoblock" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyleoblock" alt="kyleoblock" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kyleoblock" target="blank"><img src="https://img.shields.io/twitter/follow/kyleoblock?logo=twitter&style=for-the-badge" alt="kyleoblock" /></a> </p>
-
 - 🔭 I’m currently working on [My DeepSky Images](https://mydeepskyimages.com)
 
 - 👨‍💻 All of my projects are available at [kyleoblock.com](kyleoblock.com)
